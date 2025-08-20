@@ -51,12 +51,5 @@ No installation or build steps required!
 
 ![Quiz Game Demo](https://github.com/user-attachments/assets/8208f646-3976-45b4-8f6c-f6f12afe7653) <!-- Place your GIF in the repo root as demo.gif -->
 
----
-
-## 📜 License
-
-[MIT](LICENSE)
-
----
 
 Made with ❤️ by [Sabajasmine](https://github.com/Sabajasmine)
